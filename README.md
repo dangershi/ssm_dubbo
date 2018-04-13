@@ -1,6 +1,17 @@
 # ssm-dubbo
 ssm与dubbo框架整合案例
 
+**多看官方文档！多看官方文档！多看官方文档！**
+
+重要的事情说三遍！其实很多问题，多看官方文档就明白了。
+
+
+附：
+
+Dubbo官网：  http://dubbo.incubator.apache.org
+
+Dubbo官方github：  https://github.com/apache/incubator-dubbo
+
 ssm+dubbo整理（详见word版）
 
 **1.项目结构：**
@@ -55,9 +66,3 @@ mybatis配置中，注意：若mapper和dao接口不在同一文件夹下（改�
 服务提供者和消费者分别部署到不同的服务器（tomcat）上（在一台电脑上部署时记得修改端口号等配置，保证端口不冲突），项目启动时，先启动服务提供者Service，后启动消费者。
 访问的时候，请求地址里别忘了带上项目名称和参数。
 
-
-附：
-
-Dubbo官网：  http://dubbo.incubator.apache.org
-
-Dubbo官方github：  https://github.com/apache/incubator-dubbo
