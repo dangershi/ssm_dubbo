@@ -1,7 +1,7 @@
 # ssm-dubbo
 ssm与dubbo框架整合案例
 
-ssm+dubbo踩坑整理（详见word版）
+ssm+dubbo整理（详见word版）
 
 **1.项目结构：**
 
