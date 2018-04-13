@@ -56,3 +56,6 @@ mybatis配置中，注意：若mapper和dao接口不在同一文件夹下（改�
 访问的时候，请求地址里别忘了带上项目名称和参数。
 
 
+附：
+Dubbo官网：  http://dubbo.incubator.apache.org
+Dubbo官方github：  https://github.com/apache/incubator-dubbo
